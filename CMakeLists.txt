@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.25)
-project(pubgrub VERSION 0.3.1 LANGUAGES CXX)
+project(pubgrub VERSION 0.3.2 LANGUAGES CXX)
 
 include(FetchContent)
 
