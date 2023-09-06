@@ -1,6 +1,6 @@
 {
     "name": "pubgrub",
-    "version": "0.3.2",
+    "version": "0.3.3",
     "namespace": "vob",
     "test_driver": "Catch-Main",
     "depends": [
